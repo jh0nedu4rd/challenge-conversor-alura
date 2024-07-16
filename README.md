@@ -3,7 +3,7 @@
 ![menu](https://user-images.githubusercontent.com/123501294/236914417-53610eab-1a1a-4a28-b7d3-6b2b9968ba74.png)
 ![menu2](https://user-images.githubusercontent.com/123501294/236914438-aa8ed030-df05-4eed-bca2-354a90308e0f.png)
 
-<h1>Conversor de monedas Alura Challenge 2 ONE-G4</h1>
+<h1>Conversor de monedas Alura Challenge</h1>
 
 ##<h2>Descripcion del proyecto</h2>
 
